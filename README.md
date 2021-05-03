@@ -2,10 +2,13 @@
  This code is used for  Master Thesis "Automated game bot detection in MMORPGs via DL and gameplay TF behavioral features"
 
 
-These is code files I write for my thesis,
+These are code files I write for my thesis,
 following link to dataset files which I used 
 
-https://github.com/TorchCraft/StarData - DataSet 
+
+https://github.com/TorchCraft/StarData - DataSet
+
+
 https://github.com/phoglenix/ScExtractor - Preprocessing Tool 
 
 
