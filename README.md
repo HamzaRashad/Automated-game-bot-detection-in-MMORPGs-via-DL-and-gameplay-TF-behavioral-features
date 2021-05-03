@@ -1,6 +1,14 @@
 # Automated game bot detection in MMORPGs via DL and gameplay TF behavioral features
  This code is used for  Master Thesis "Automated game bot detection in MMORPGs via DL and gameplay TF behavioral features"
 
+
+These is code files I write for my thesis,
+following link to dataset files which I used 
+
+https://github.com/TorchCraft/StarData - DataSet 
+https://github.com/phoglenix/ScExtractor - Preprocessing Tool 
+
+
                                                  **Abstract**
 
 Gaming is among the most common industries and people spending money on them, particularly MMORPG (Multiplayer Online Role-Playing Games). With the continuing growth of the internet services market and the engaging nature of MMORPGs, criminal activities in the online world have grown significantly. Gaming bots are automated programs that help scam users to cause instability and a breakdown of user interests in the gaming environment.  The development and advances in in-game bots exhibiting great dynamicity and variety, which makes it incredibly difficult to detect the game bot in MMORPGs. Indeed this issue arises the need to design a system that can detect the game bot dynamically even when the game bot is advanced its behavior. In this study, we conducted a comprehensive literature review to review the existing techniques and their drawbacks used for game bot detection in MMORPGs. 
